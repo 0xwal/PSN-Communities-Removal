@@ -1,0 +1,9 @@
+D:\MINE-HP\Documents\visual studio 2015\Projects\Csharp\MISC\PSNLib\PSNLib\bin\Debug\PSNLib.dll
+D:\MINE-HP\Documents\visual studio 2015\Projects\Csharp\MISC\PSNLib\PSNLib\bin\Debug\PSNLib.pdb
+D:\MINE-HP\Documents\visual studio 2015\Projects\Csharp\MISC\PSNLib\PSNLib\obj\Debug\PSNLib.dll
+D:\MINE-HP\Documents\visual studio 2015\Projects\Csharp\MISC\PSNLib\PSNLib\obj\Debug\PSNLib.pdb
+C:\Users\MINE-HP\Desktop\message deleter\PSNLib\bin\Debug\PSNLib.dll
+C:\Users\MINE-HP\Desktop\message deleter\PSNLib\bin\Debug\PSNLib.pdb
+C:\Users\MINE-HP\Desktop\message deleter\PSNLib\obj\Debug\PSNLib.csprojResolveAssemblyReference.cache
+C:\Users\MINE-HP\Desktop\message deleter\PSNLib\obj\Debug\PSNLib.dll
+C:\Users\MINE-HP\Desktop\message deleter\PSNLib\obj\Debug\PSNLib.pdb
